@@ -26,13 +26,13 @@ Nå trenger du et [Personal access token fra Github](https://github.com/settings
 
 På Collobaration velger du `Add remote model`, og legger inn:
 
-- url: `https://github.com/hdir/Tillitsrammeverk.git`
-- user name: ditt Github brukernavn
-- password: ditt personal access token
+* url: `https://github.com/hdir/Tillitsrammeverk.git`
+* user name: ditt Github brukernavn
+* password: ditt personal access token
 
 Etter du har lastet ned til Archi, kan du nå vise arbeidsområdene fra Collaboration-menyen i Archi.
 
 ## Les mer
 
-- [Archimate tool](https://www.archimatetool.com/)
-- [Archimate model, repository and Git integration](https://github.com/markusvanaardt/readme-coArchi)
+* [Archimate tool](https://www.archimatetool.com/)
+* [Archimate model, repository and Git integration](https://github.com/markusvanaardt/readme-coArchi)
