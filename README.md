@@ -26,7 +26,7 @@ Nå trenger du et [Personal access token fra Github](https://github.com/settings
 
 På Collobaration velger du `Add remote model`, og legger inn:
 
-* url: `https://github.com/hdir/Tillitsrammeverk.git`
+* url: `https://github.com/hdir/Dokumentdeling.git
 * user name: ditt Github brukernavn
 * password: ditt personal access token
 
