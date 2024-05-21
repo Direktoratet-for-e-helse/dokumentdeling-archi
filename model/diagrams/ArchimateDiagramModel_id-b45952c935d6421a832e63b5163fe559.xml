@@ -468,7 +468,7 @@
         textPosition="1">
       <bounds
           x="36"
-          y="48"
+          y="132"
           width="154"
           height="55"/>
       <archimateElement
@@ -482,7 +482,7 @@
         textPosition="1">
       <bounds
           x="36"
-          y="132"
+          y="48"
           width="154"
           height="55"/>
       <archimateElement
